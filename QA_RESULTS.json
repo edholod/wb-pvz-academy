@@ -1,0 +1,43 @@
+{
+  "checks": {
+    "lessonRenders": 76,
+    "shuffleChecks": 3250,
+    "quizRuns": 152,
+    "persistence": true,
+    "invalidStorage": true,
+    "scenarioRenders": 14,
+    "savedNextBack": "saved",
+    "scenario13Target": true,
+    "scenarioBack": true,
+    "searchQuizBack": "catalog",
+    "assetReferences": true,
+    "catalogContext": true,
+    "searchReturnContext": true,
+    "searchScenarioReturn": true,
+    "resetConfirmAndCancel": true,
+    "storageUnavailable": true,
+    "answerSourceMapping": 130,
+    "lateTelegramSdk": true,
+    "specificExplanations": 130,
+    "responsiveHeaderOffset": true
+  },
+  "bugs": [],
+  "counts": {
+    "genericExplanations": 0,
+    "emptyVersions": 0,
+    "alwaysCorrectIndexZero": 98
+  },
+  "limits": "VM тесты логики и генерации HTML. Не эмуляция браузерного layout или Telegram WebView.",
+  "telegram_review": {
+    "archive_reached_creation": true,
+    "attachments_fully_reviewed": false,
+    "report": "TELEGRAM_REVIEW.html"
+  },
+  "citations": {
+    "lessons": 76,
+    "questions": 130
+  },
+  "progress_migration": "Old progress preserved; edition21 separately; favorites kept",
+  "browser_status": "Published Academy / Telegram WebView not verified; local-file protocol blocked",
+  "pvz_lk_status": "Authenticated read-only inspection completed 2026-11-01, v9.7.372; no operations submitted"
+}

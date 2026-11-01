@@ -1,0 +1,31 @@
+{
+  "checks": {
+    "lessonRenders": 76,
+    "shuffleChecks": 3250,
+    "quizRuns": 152,
+    "persistence": true,
+    "invalidStorage": true,
+    "scenarioRenders": 14,
+    "savedNextBack": "saved",
+    "scenario13Target": true,
+    "scenarioBack": true,
+    "searchQuizBack": "catalog",
+    "assetReferences": true,
+    "catalogContext": true,
+    "searchReturnContext": true,
+    "searchScenarioReturn": true,
+    "resetConfirmAndCancel": true,
+    "storageUnavailable": true,
+    "answerSourceMapping": 130,
+    "lateTelegramSdk": true,
+    "specificExplanations": 130,
+    "responsiveHeaderOffset": true
+  },
+  "bugs": [],
+  "counts": {
+    "genericExplanations": 0,
+    "emptyVersions": 0,
+    "alwaysCorrectIndexZero": 98
+  },
+  "limits": "VM тесты логики и генерации HTML. Не эмуляция браузерного layout или Telegram WebView."
+}

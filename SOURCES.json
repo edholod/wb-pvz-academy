@@ -1,0 +1,546 @@
+{
+  "day": {
+    "title": "Чек-лист Распорядок дня",
+    "date": "Не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30u52z023kQh1YIcXZnDtEzlkaT&unitid=2zb4ll644Yq7ZmS7XiC0tPA7Jq9&tab=memorandums&cli=1",
+    "sha256": "9d87b6db82c9060265d0363872241c84c47bfa02ba5df5107b902ffa9921cef0",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "offer": {
+    "title": "Оферта об оказании услуг в ПВЗ",
+    "url": "https://point-quality.wb.ru/offer/RU/1.html",
+    "date": "Дата редакции на просмотренной странице не указана",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Пункты указаны в строках проверки",
+    "sha256": ""
+  },
+  "rules": {
+    "title": "Приложение №2. Правила оказания услуг",
+    "url": "https://point-quality.wb.ru/offer/RU/2.html",
+    "date": "Дата редакции на просмотренной странице не указана",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Пункты указаны в строках проверки",
+    "sha256": ""
+  },
+  "prep": {
+    "title": "Подготовка товаров к отправке на склад",
+    "date": "28.09.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uJOJzKc0Y0NPj3nkcSzD0dh0q&unitid=2xUHcxR5CjorzeUIlV9EIU5kaUc&tab=instructions&cli=1",
+    "sha256": "5f25bbbf1fa730dce9a0327b1f0ffe263824a36f69d0d3b848ef527252ecfd4b",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "track-offer": {
+    "title": "Приложение №5. Услуга WB Track",
+    "url": "https://point-quality.wb.ru/offer/RU/4.html#section-2",
+    "date": "Дата редакции на просмотренной странице не указана",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Особенно п.1.55 и 3.3",
+    "sha256": ""
+  },
+  "clean": {
+    "title": "Поддержание чистоты",
+    "date": "Не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30u1SLDkPEIw65sXVDUpp52W72m&unitid=2zb4XQnaSJYypstGkXTRz26joLH&tab=memorandums&cli=1",
+    "sha256": "e0e74513c9cbb7bd6716871dca9f2523cc165646c7e297ca87684ed8acb72c17",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "auth": {
+    "title": "Авторизация менеджеров",
+    "date": "03.07.2025",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uIqyJuLwyVbJgFtcQAhvYdpXN&unitid=2syrj7c6JNydWyIbl0NQW9Fg2xq&tab=instructions&cli=4",
+    "sha256": "ade657ad619dfa2c3a6e6c338fd847cdf7cdd5fbbe8029b3043e64861bc1e7db",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "accept": {
+    "title": "Приёмка товаров",
+    "date": "02.02.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=31B4Mb8jYqPgQVm7mLcejSIfbor&unitid=2siHRBzL0EotnE4aIo4PvNi5xZF&tab=instructions&cli=1",
+    "sha256": "0ea852f9584267e62e0d9d261b56aa23415084a3839f93ca181bb6fe45ff0baa",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "store": {
+    "title": "Оптимизация склада",
+    "date": "Не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30txEDf0CEPSVI7NjpvmhdWryOf&unitid=2zb64K0GOZAtMGqYvqy5NtqwoWh&tab=memorandums&cli=1",
+    "sha256": "137cbe46ccd4b5709828ca3be76ce807d2d5517119153e43ac075a0dacf385b0",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "fire": {
+    "title": "Пожарная безопасность",
+    "date": "Не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=35vj4xFAsD7LIF5z2udyaF2SnbT&unitid=35vbU5frwWN4VjB4TezeZXfhKwM&tab=memorandums&cli=1",
+    "sha256": "a657a0f2ea7a6ffddbf020fc123f6d529232a25979a63a423783ad2d81123339",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "search": {
+    "title": "Информация о товаре. Поиск по ШК",
+    "date": "03.07.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=31B4Mb8jYqPgQVm7mLcejSIfbor&unitid=2siHRBzL0EotnE4aIo4PvNi5xZF&tab=instructions&cli=6",
+    "sha256": "ada0a71a9ac5af815fb2c8f111a174c8c8d3542e27d99dffe565d955e1154ae4",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-desktop89": {
+    "title": "Что нового в89-й версии десктоп-приложения WB ПВЗ",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "02.02.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Информация о товаре; переименование раздела и обновление карточек",
+    "sha256": ""
+  },
+  "inventory": {
+    "title": "Инвентаризация",
+    "date": "02.07.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=3GXkUWCAR9TODg7wl7vxoeB4G3J&unitid=3GXiIIG8CamMkJP9MHVJ234pTs5&tab=instructions&cli=2",
+    "sha256": "ba9dd070b46bc199b17b5685d277cb868f48294187bce0b8aad397436699bd84",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "issue": {
+    "title": "Выдача товаров. Десктоп",
+    "date": "19.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGyVsYpIDG9KwCS4IZa2DwQg4&unitid=2xSDqcPbsN8FmiiIP1jysFru5c4&tab=instructions&cli=1",
+    "sha256": "f5644c417285ff86a020fdd240c3840e7c00ee7c9ba9ce650e76a5134ad34efd",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "nonreturn": {
+    "title": "Невозвратные и неотказные товары",
+    "date": "25.02.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGXy8hcxeEkIvgSCm1eA6wKJl&unitid=2xSEvfANL1vyfF3d6QbpG1x2Opc&tab=instructions&cli=7",
+    "sha256": "1396591edc205634ea497c02114d51bdab1d05962a5a5cc070486702673c5b26",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-simple-return": {
+    "title": "Продолжаем тестировать отметку «Не требует проверки» на товарах",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "31.07.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Не требует проверки; также прочитана публикация21.04.2026",
+    "sha256": ""
+  },
+  "tickets": {
+    "title": "Создание тикетов",
+    "date": "08.05.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=31B4bQBfqCVXRFL5JqayQnUUmoO&unitid=2swS4kAVVJRavF076GanySIFZbN&tab=instructions&cli=1",
+    "sha256": "4bcfca10c0491c2c229b9529602a49313a474d4080bf045e4d9dc7f29c80c21e",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "cert": {
+    "title": "Приёмка и выдача подарочных сертификатов",
+    "date": "23.07.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGyVsYpIDG9KwCS4IZa2DwQg4&unitid=2xSDqcPbsN8FmiiIP1jysFru5c4&tab=instructions&cli=4",
+    "sha256": "76c80f3562c246e44a93c4c5a1a7a93976b4a1d0d88e29a2639bcbfc1614e694",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "home": {
+    "title": "Возврат товаров из дома",
+    "date": "20.04.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGXy8hcxeEkIvgSCm1eA6wKJl&unitid=2xSEvfANL1vyfF3d6QbpG1x2Opc&tab=instructions&cli=3",
+    "sha256": "e8fb301a539f9b173e758111ab496272a414d8d3b6812285f37b644e32b26249",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "swap": {
+    "title": "Товары-подмены",
+    "date": "06.07.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uFham60wLuTbO9UaA1HsNsy1h&unitid=2xSIBCwI7yTUh4JgtF1PcmivTbD&tab=instructions&cli=5",
+    "sha256": "bd976f418817350cf759650c94a95f8d6352d0856a2652cfdbb1a9184c9a7740",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "return": {
+    "title": "Возврат товаров",
+    "date": "16.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGXy8hcxeEkIvgSCm1eA6wKJl&unitid=2xSEvfANL1vyfF3d6QbpG1x2Opc&tab=instructions&cli=1",
+    "sha256": "a4b1b4601a6b7a9d8726e11d60d54645cf72cfa2ce7e3065d4eba7addc714d8f",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "mp": {
+    "title": "Приёмка маркетплейс-коробки",
+    "date": "26.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=31B4Mb8jYqPgQVm7mLcejSIfbor&unitid=2siHRBzL0EotnE4aIo4PvNi5xZF&tab=instructions&cli=3",
+    "sha256": "24231df9740bb9d2d0436970366f0dafc5d0a85b5ad0bb3bb708eca29386aa62",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "roll": {
+    "title": "Регистрация стикеров",
+    "date": "17.10.2025",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uJOJzKc0Y0NPj3nkcSzD0dh0q&unitid=2xUHcxR5CjorzeUIlV9EIU5kaUc&tab=instructions&cli=3",
+    "sha256": "65b37c2f8a8907a997b49c7f7d6fbd0b29ae8f2669b8de0e5bb15d4b6786175b",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-roll": {
+    "title": "Подключаем новые ПВЗ к регистрации рулонов со стикерами в программе WB ПВЗ",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "23.06.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: рулон",
+    "sha256": ""
+  },
+  "cardboard": {
+    "title": "Возврат картона",
+    "date": "02.03.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGXy8hcxeEkIvgSCm1eA6wKJl&unitid=2xSEvfANL1vyfF3d6QbpG1x2Opc&tab=instructions&cli=5",
+    "sha256": "93d70c3d452d7f55065197bb5f334af88b5ac3f6bf14a514ce1c788a100d14d5",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-cardboard": {
+    "title": "Напоминаем, что пустые коробки нужно возвращать на склад",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "19.02.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: картон. Также просмотрена публикация «Как подготовить возвратные коробки для отправки на склад» от14.08.2025",
+    "sha256": ""
+  },
+  "dispose": {
+    "title": "Утилизация товаров",
+    "date": "21.07.2025",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGXy8hcxeEkIvgSCm1eA6wKJl&unitid=2xSEvfANL1vyfF3d6QbpG1x2Opc&tab=instructions&cli=12",
+    "sha256": "e3ef16273107da57a357eb3a7a70790f0fe7c2c7d565c90c87f36be9b927a4d5",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "check": {
+    "title": "Как проверить товар на брак",
+    "date": "06.04.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uFham60wLuTbO9UaA1HsNsy1h&unitid=2xSIBCwI7yTUh4JgtF1PcmivTbD&tab=instructions&cli=2",
+    "sha256": "f798d1f72fc1d60d69d0d6fd0dfd09fc37c4af21e0c6f18455dac137793d890a",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "mark": {
+    "title": "Отметка о браке. Десктоп",
+    "date": "02.07.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uFham60wLuTbO9UaA1HsNsy1h&unitid=2xSIBCwI7yTUh4JgtF1PcmivTbD&tab=instructions&cli=3",
+    "sha256": "5ff5cd6833d98990e1eaad13293e31203fcecf83173bc60f216c31dec387544e",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "lost": {
+    "title": "Зависшие ШК",
+    "date": "07.07.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uFham60wLuTbO9UaA1HsNsy1h&unitid=2xSIBCwI7yTUh4JgtF1PcmivTbD&tab=instructions&cli=6",
+    "sha256": "04b5979d1d4755e641b0ab12bfc9028edaa4cc345fe59f7b32091250385b9c19",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "courier": {
+    "title": "Курьерские заказы",
+    "date": "19.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30u7U3EJNgChJSWqggebVMsJS5K&unitid=2xUJ8rJWtdpA8AhS2P9Kjv1hZVE&tab=instructions&cli=1",
+    "sha256": "31c135e540ef15a32463161a8ea5260a66c05d1ed363c4e53db6b1fd6072ab39",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "track": {
+    "title": "Сервис доставок WB Track",
+    "date": "09.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30u6b8eWdbzWqql0ypPinx8b0OB&unitid=2zGXdmxts5NsTdKWpa9d5tSLm6b&tab=instructions&cli=1",
+    "sha256": "f7d9ca0a366e3f3cad6d3721af0e7941336dc489beb4236842d99ae0f91f2995",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-track": {
+    "title": "Отвечаем на ваши вопросы о сервисе WB Track",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "16.06.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: 15 кг. Размер и создание коробки изменены позднейшими PDF",
+    "sha256": ""
+  },
+  "news-wallet": {
+    "title": "Теперь можно оформить доставку товара WB Track без WB Кошелька",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "23.10.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Track",
+    "sha256": ""
+  },
+  "resale": {
+    "title": "WB Ресейл",
+    "date": "23.09.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=32YEGKJNSOOe55XXfilMa8idiKS&unitid=32YBbD3HowYPgYMyUzh2levj3na&tab=instructions&cli=1",
+    "sha256": "628846f63d82c1ccba0ddfd9272728b85692e850818a4610184c74a51cab4a59",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "supplier": {
+    "title": "Работа с товарами поставщика",
+    "date": "19.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uGyVsYpIDG9KwCS4IZa2DwQg4&unitid=2xSDqcPbsN8FmiiIP1jysFru5c4&tab=instructions&cli=3",
+    "sha256": "9ea6752892b866f1be0fc770fb82e342798390248ae7dba93a96ac12e204d499",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "rating": {
+    "title": "Оспаривание оценок рейтинга",
+    "date": "Не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30tzDm32BQvs8eRn0eoP8e00651&unitid=2zb72OViWu3DiXvL6uFuL8z7uCi&tab=memorandums&cli=1",
+    "sha256": "bac57a0f6e431c75a057a774460b3159da7c80df490f60b9068d3c8a43b54f04",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-support": {
+    "title": "Трансформация поддержки ПВЗ Wildberries: какие функции теперь доступны пользователям",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "01.06.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Помощник. Также просмотрены новости20.03.2026 и21.02.2026",
+    "sha256": ""
+  },
+  "news-loss": {
+    "title": "Теперь можно поставить статус «Утерян на ПВЗ», если вы не нашли товар во время выдачи клиенту",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "04.05.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Не могу найти",
+    "sha256": ""
+  },
+  "news-offline": {
+    "title": "Продолжайте работу в приложениях WB ПВЗ в случае нестабильной работы интернета",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "05.05.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: картон. Уточнение по офлайн-подготовке — новость о рулонах23.06.2026",
+    "sha256": ""
+  },
+  "news-carrier": {
+    "title": "Что делать, если за коробками приезжают разные перевозчики",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "01.09.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Отгрузка; QR во вкладке «Отгрузка товаров»",
+    "sha256": ""
+  },
+  "fbw": {
+    "title": "Приёмка FBW поставок",
+    "date": "10.08.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=3HuVZcTz8M3A4fpgeClSxz9UPAW&unitid=3HuTft9DIDZaX4gHRERQRnQesDr&tab=instructions&cli=1",
+    "sha256": "b6b19d1b1fd4e2ef604e6bdcc66bd7acf0a9f388b2adcb1527a9cfcb9b2a9905",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "dbs": {
+    "title": "Работа с DBS товарами",
+    "date": "16.09.2025",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=349KNSgtvWgFXVcc2WtaWgCbI2a&unitid=349I3MsRASQbSLQC7VrDRzTFYdE&tab=instructions&cli=2",
+    "sha256": "fbb299746b1e6bcd66ea8b411af6d40150fe643c7b835221ed5a1dfc4e309787",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-tires": {
+    "title": "Убираем категорию «Запрещённый к поставке товар» из процессов ПВЗ",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "10.06.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: шины",
+    "sha256": ""
+  },
+  "prep-memo": {
+    "title": "Как избежать ошибок при подготовке товаров к отправке на склад",
+    "date": "Дата редакции не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30KC0mDJaukO4BwWQeRxEb4hGBU&unitid=2zb7byUzRDRn3OpE0OEF6yxJPiz&tab=memorandums&cli=1",
+    "sha256": "8c30766de662c5892ae242913b5df75b4e3fa37875f73f39d8b3be9eaaa4545f",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "goods-memo": {
+    "title": "Рекомендации по работе с товаром",
+    "date": "Дата редакции не указана",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30u2rR7gFS41U8qiTIvULT4i2AF&unitid=2zb4rD2kUMAfUJsH5uGkt6VlpRe&tab=memorandums&cli=1",
+    "sha256": "1b723f7743503ce1149ef37fe2582adafa51c2a61e76b12315a7f59176a5189b",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "defect": {
+    "title": "Инструкция по браку",
+    "date": "09.10.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=30uFham60wLuTbO9UaA1HsNsy1h&unitid=2xSIBCwI7yTUh4JgtF1PcmivTbD&tab=instructions&cli=1",
+    "sha256": "d41afb78c5ee510ef80b044e419520dbc8d72a3810db2162c5fc678a406b82dd",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "imei": {
+    "title": "Проверка IMEI",
+    "date": "15.06.2026",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-base?publicationid=36vHXuixXaN998iIUlhajmArVkC&unitid=36vALsp1Si5EH0silzftFX5zZnY&tab=instructions&cli=1",
+    "sha256": "383fbafd5f86304596672fb1e73f076b6b0cb028edce337e44c6935ec59e3594",
+    "kind": "Версия PDF",
+    "lookup": ""
+  },
+  "news-qr": {
+    "title": "Ошибка «Неизвестное отсканированное значение» во время выдачи заказа — что делать",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "08.07.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: Неизвестное",
+    "sha256": ""
+  },
+  "news-fraud": {
+    "title": "Учимся распознавать мошенников, которые выдают себя за сотрудников Wildberries",
+    "url": "https://my-pvz.wb.ru/news/owners",
+    "date": "27.05.2026",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Поиск: мошенник; запросить тикет в кабинете WB Point",
+    "sha256": ""
+  },
+  "course-time": {
+    "title": "Тайм-менеджмент — Управление потоком задач",
+    "url": "https://edtech.rwb.ru/pvz/ru/pvz-content-course?publicationid=3FaTOzADntPi92mOC1rjMa3WYDJ&unitid=3FaT8ZSx2IyI8TW3ECf3UFujjNg",
+    "date": "Публикация курса24.06.2026; дата редакции модуля не указана",
+    "kind": "Публикация / доступная редакция",
+    "lookup": "Алгоритм работы в микроокнах, шаг3 «Обновите состояние задачи»",
+    "sha256": ""
+  },
+  "web-search": {
+    "title": "WBPoint: Поиск ШК",
+    "url": "https://pvz-lk.wb.ru/search-goods/common",
+    "date": "Наблюдение 01.11.2026, веб-интерфейс v9.7.372",
+    "kind": "Непосредственная проверка интерфейса",
+    "lookup": "Обычные товары / Товары МП; поле поиска ШК, кода стикера и т.п.",
+    "sha256": ""
+  },
+  "web-inventory": {
+    "title": "WBPoint: Инвентаризация",
+    "url": "https://pvz-lk.wb.ru/inventory",
+    "date": "Наблюдение 01.11.2026, веб-интерфейс v9.7.372",
+    "kind": "Непосредственная проверка интерфейса",
+    "lookup": "Боковое меню → Инвентаризация; Справка; Активная / История; начало не нажималось",
+    "sha256": ""
+  },
+  "web-rating": {
+    "title": "WBPoint: Рейтинг",
+    "url": "https://pvz-lk.wb.ru/rating",
+    "date": "Наблюдение 01.11.2026, веб-интерфейс v9.7.372",
+    "kind": "Непосредственная проверка интерфейса",
+    "lookup": "Боковое меню → Рейтинг; вкладки Рейтинг ПВЗ, Рейтинг сотрудников, Инфо",
+    "sha256": ""
+  },
+  "web-ticket": {
+    "title": "WBPoint: Тикеты и формы обращений",
+    "url": "https://pvz-lk.wb.ru/ticket",
+    "date": "Наблюдение 01.11.2026, веб-интерфейс v9.7.372",
+    "kind": "Непосредственная проверка интерфейса",
+    "lookup": "Создать тикет → тема → ПВЗ → описание → вложения; проверены темы и логистическая форма без отправки",
+    "sha256": ""
+  },
+  "tg-111": {
+    "title": "WB ПВЗ: обновление десктопа 1.11.0",
+    "url": "https://t.me/s/wbpvzlearning/2921",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "Абзац «Новые кнопки и цвета карточек на экране выдачи»",
+    "sha256": ""
+  },
+  "tg-reissue": {
+    "title": "WB ПВЗ: выдача товара из отказа",
+    "url": "https://t.me/s/wbpvzlearning/2513",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Что делать, если клиент хочет забрать товар из отказа»",
+    "sha256": ""
+  },
+  "tg-shoes": {
+    "title": "WB ПВЗ: подготовка обувных коробок",
+    "url": "https://t.me/s/wbpvzlearning/2751",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Как готовить коробки из-под обуви к возврату на склад»",
+    "sha256": ""
+  },
+  "tg-fbw": {
+    "title": "WB ПВЗ: тестирование приёмки FBW",
+    "url": "https://t.me/s/wbpvzlearning/2863",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Тестируем приёмку FBW-поставок в пунктах выдачи России»",
+    "sha256": ""
+  },
+  "tg-util": {
+    "title": "WB ПВЗ: сверка раздела «Утиль»",
+    "url": "https://t.me/s/wbpvzlearning/2713",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Проверьте товары в разделе „Утиль“»",
+    "sha256": ""
+  },
+  "tg-box-assignment": {
+    "title": "WB ПВЗ: назначение типа возвратной коробки",
+    "url": "https://t.me/s/wbpvzlearning/2657",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "Публикация об отметках «Для брака», «Все товары» / «Возвратная»",
+    "sha256": ""
+  },
+  "tg-sealed": {
+    "title": "WB ПВЗ: перестикеровка автоотмены",
+    "url": "https://t.me/s/wbpvzlearning/2647",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "Публикация «Перестикеровка товаров: КГТ и автоотмена»",
+    "sha256": ""
+  },
+  "tg-track60": {
+    "title": "WB ПВЗ: количество отправлений Track в коробке",
+    "url": "https://t.me/s/wbpvzlearning/2787",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "Ответ о нескольких доставках в разные ПВЗ: до 60 отдельных сейф-пакетов",
+    "sha256": ""
+  },
+  "tg-courier": {
+    "title": "WB ПВЗ: возвраты от курьеров",
+    "url": "https://t.me/s/wbpvzlearning/2567",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Как принимать возвраты от курьеров» — сроки 3 часа и 48 часов",
+    "sha256": ""
+  },
+  "tg-rejected": {
+    "title": "WB ПВЗ: возврат с отклонённой заявкой",
+    "url": "https://t.me/s/wbpvzlearning/1766",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Теперь принимаем на возврат товары с отклонённой заявкой»",
+    "sha256": ""
+  },
+  "tg-partner-writtenoff": {
+    "title": "WB ПВЗ: партнёрские и списанные товары",
+    "url": "https://t.me/s/wbpvzlearning/2482",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "Публикации о товарах других площадок и списанных товарах на балансе",
+    "sha256": ""
+  },
+  "tg-hour": {
+    "title": "WB ПВЗ: ошибочная выдача невозвратного товара",
+    "url": "https://t.me/s/wbpvzlearning/2415",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "Публикация о версиях мобильная 24 / десктоп 90",
+    "sha256": ""
+  },
+  "tg-courier-age": {
+    "title": "WB ПВЗ: проверка возраста при передаче курьеру",
+    "url": "https://t.me/s/wbpvzlearning/1985",
+    "date": "Дата публикации не раскрыта в доступном тексте; проверено 01.11.2026",
+    "kind": "Публичная публикация канала WB ПВЗ",
+    "lookup": "«Не проверяйте документы, если за товаром 18+ пришёл курьер»",
+    "sha256": ""
+  }
+}

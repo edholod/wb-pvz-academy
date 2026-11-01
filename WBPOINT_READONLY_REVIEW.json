@@ -1,0 +1,41 @@
+{
+  "checked_at": "2026-11-01",
+  "application": "WBPoint web",
+  "version": "v9.7.372",
+  "mode": "read_only",
+  "sources": [
+    {
+      "key": "web-search",
+      "title": "WBPoint: Поиск ШК",
+      "url": "https://pvz-lk.wb.ru/search-goods/common",
+      "observed": "Обычные товары / Товары МП; поле поиска ШК, кода стикера и т.п."
+    },
+    {
+      "key": "web-inventory",
+      "title": "WBPoint: Инвентаризация",
+      "url": "https://pvz-lk.wb.ru/inventory",
+      "observed": "Боковое меню → Инвентаризация; Справка; Активная / История; начало не нажималось"
+    },
+    {
+      "key": "web-rating",
+      "title": "WBPoint: Рейтинг",
+      "url": "https://pvz-lk.wb.ru/rating",
+      "observed": "Боковое меню → Рейтинг; вкладки Рейтинг ПВЗ, Рейтинг сотрудников, Инфо"
+    },
+    {
+      "key": "web-ticket",
+      "title": "WBPoint: Тикеты и формы обращений",
+      "url": "https://pvz-lk.wb.ru/ticket",
+      "observed": "Создать тикет → тема → ПВЗ → описание → вложения; проверены темы и логистическая форма без отправки"
+    }
+  ],
+  "tickets_submitted": 0,
+  "inventory_started": false,
+  "settings_changed": false,
+  "limitations": [
+    "Lookup of an older SHK returned no result; exact detail tabs were not confirmed.",
+    "Rating PDF link supplied by the cabinet returned404 and is not used as authoritative source.",
+    "Role-specific controls do not establish availability for every role.",
+    "Published Academy / Telegram WebView not tested."
+  ]
+}

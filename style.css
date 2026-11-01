@@ -17,3 +17,10 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #9c7a
 
 /* Final navigation and mobile usability pass */
 .sticky-back,.sticky-exit{top:var(--header-height,78px)}.top{min-height:78px}.brand-image{object-fit:contain;object-position:center;width:min(104px,25vw);height:auto;max-height:none}.lesson-actions .button{min-height:44px}.step{align-items:flex-start}.step p{overflow-wrap:anywhere}.quiz-card h2{line-height:1.3}@media(max-width:420px){.top{min-height:65px}.sticky-back,.sticky-exit{top:65px}.brand-image{width:min(79px,23vw)}.lesson-actions .button{flex:1 1 100%}}
+
+.app{padding-bottom:180px}
+
+.sources-panel{margin:22px 0;padding:16px;border:1px solid #dedbe9;border-radius:14px;background:#fff;overflow-wrap:anywhere}.sources-panel h2{font-size:18px;margin:0 0 10px}.sources-panel p{margin:9px 0}.sources-panel small{color:#656074}.notice .sources-panel{font-size:14px}
+
+/* Keep return controls below the measured, responsive header. */
+.sticky-back,.sticky-exit{top:var(--header-height,78px)}

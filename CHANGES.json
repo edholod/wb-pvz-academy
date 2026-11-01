@@ -1,0 +1,805 @@
+[
+  {
+    "id": "l1",
+    "title": "Открытие ПВЗ",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l2",
+    "title": "Распорядок дня",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l3",
+    "title": "Чистота и порядок",
+    "changed": [
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l4",
+    "title": "Перерыв одного сотрудника",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l5",
+    "title": "Вход в программу WB ПВЗ и выбор пункта",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l6",
+    "title": "Приёмка поставки",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l7",
+    "title": "Организация склада",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l8",
+    "title": "Поиск товара по ШК",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l9",
+    "title": "Инвентаризация в десктопном WB ПВЗ",
+    "changed": [
+      "title",
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l10",
+    "title": "Обычная выдача заказа",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l11",
+    "title": "Примерка и отказ",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l12",
+    "title": "Неотказные и невозвратные товары",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l13",
+    "title": "Отказ до завершения выдачи",
+    "changed": [
+      "title",
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l14",
+    "title": "Выдать товар из отказа",
+    "changed": [
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l15",
+    "title": "Проблема с оплатой",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l16",
+    "title": "Подарочные сертификаты",
+    "changed": [
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l17",
+    "title": "Возврат товара из дома",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l18",
+    "title": "Возврат без штрихкода",
+    "changed": [
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l19",
+    "title": "Возвратная коробка",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l20",
+    "title": "Правильная маркировка TRBX",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l21",
+    "title": "Переупаковка товара",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l22",
+    "title": "Регистрация рулонов стикеров",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l23",
+    "title": "Возврат картона",
+    "changed": [
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l24",
+    "title": "Утилизация товаров",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l25",
+    "title": "Проверка товара на брак",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l26",
+    "title": "Подмена товара",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l27",
+    "title": "Зависшие ШК",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l28",
+    "title": "Пожарная безопасность",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l29",
+    "title": "Подготовка курьерского заказа",
+    "changed": [
+      "steps",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l30",
+    "title": "Выдача заказа курьеру",
+    "changed": [
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l31",
+    "title": "Возврат заказа от курьера",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l32",
+    "title": "Разбор курьерского заказа",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l33",
+    "title": "WB Track — приём посылки",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l34",
+    "title": "WB Track — запрещённые вложения",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l35",
+    "title": "WB Ресейл — приём от продавца",
+    "changed": [
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l36",
+    "title": "WB Ресейл — выдача и возврат",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l37",
+    "title": "Товары поставщика",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l38",
+    "title": "Партнёрские маркетплейсы",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l39",
+    "title": "Как создать тикет WB Point",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l40",
+    "title": "Оспаривание брака и подмены",
+    "changed": [
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l41",
+    "title": "Оспаривание оценки клиента",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l42",
+    "title": "Логистика и водитель",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l43",
+    "title": "Помощник WB ПВЗ",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l44",
+    "title": "Видеодоказательства",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l45",
+    "title": "Какие тикеты бывают",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "l46",
+    "title": "Тикеты собственника",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n1",
+    "title": "Потерялся товар при выдаче",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n2",
+    "title": "Нет интернета: что работает",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n3",
+    "title": "Клиентские пакеты: выдача и учёт",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n4",
+    "title": "WB MP: приёмка от продавца",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n5",
+    "title": "WB MP: возвратная коробка TRBX",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n6",
+    "title": "WB MP: передача перевозчику",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n7",
+    "title": "FBW: приёмка коробок продавца",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n8",
+    "title": "DBS: товары от продавца",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n9",
+    "title": "Шины и отмена категории «Запрещённый к поставке товар»",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n10",
+    "title": "Автоотмена: целый невскрытый сейф-пакет",
+    "changed": [
+      "title",
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n11",
+    "title": "Обувь: проверка и возврат",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n12",
+    "title": "Запах как признак брака",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n13",
+    "title": "Бренд не совпадает: это не всегда подмена",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n14",
+    "title": "Бракованные товары: специальные коробки",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n15",
+    "title": "Отметку брака поставили случайно",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n16",
+    "title": "IMEI смартфонов при выдаче и возврате",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n17",
+    "title": "Товары «Не требует проверки»",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n18",
+    "title": "Проверка возраста через MAX",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n19",
+    "title": "Старый QR-код покупателя",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n20",
+    "title": "Выдача перед закрытием",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n21",
+    "title": "Физические подарочные сертификаты",
+    "changed": [
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n22",
+    "title": "Отсутствующий товар в процессе утилизации",
+    "changed": [
+      "title",
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n23",
+    "title": "Поддержка: тикеты и «Помощник»",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n24",
+    "title": "Оспаривание оценки 1–2",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n25",
+    "title": "Защита от мошенников",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n26",
+    "title": "WB Track: ограничения и возвраты",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n27",
+    "title": "Наклейки: регистрация рулонов",
+    "changed": [
+      "steps",
+      "notes",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n28",
+    "title": "Работа с возвратными коробками",
+    "changed": [
+      "steps",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n29",
+    "title": "Тайм-менеджмент в ПВЗ",
+    "changed": [
+      "quiz",
+      "sources",
+      "version"
+    ]
+  },
+  {
+    "id": "n30",
+    "title": "MP-коробка без физической наклейки TRBX",
+    "changed": [
+      "title",
+      "steps",
+      "notes",
+      "check",
+      "quiz",
+      "sources",
+      "version"
+    ]
+  }
+]
